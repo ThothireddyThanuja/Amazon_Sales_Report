@@ -50,6 +50,9 @@ Several insights were obtained from the data through visualization techniques:
     ![Category ](https://github.com/user-attachments/assets/b37a7088-c2c6-414f-8c53-948af41c652f)
     
   * B2B Data: Used a pie chart to show the percentage distribution of B2B and non-B2B transactions.
+
+    ![B2B](https://github.com/user-attachments/assets/c35ec3f0-70c4-46b1-9062-95d1aacf40b8)
+    
   * State Distribution: Visualized the distribution of sales across states with a bar chart.
   * Top 10 States: A bar chart highlighting the states with the highest sales.
   * Product Size Demand: Displayed quantity sold by product size.
