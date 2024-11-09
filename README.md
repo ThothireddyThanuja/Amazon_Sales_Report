@@ -55,6 +55,9 @@ Several insights were obtained from the data through visualization techniques:
     
   * State Distribution: Visualized the distribution of sales across states with a bar chart.
   * Top 10 States: A bar chart highlighting the states with the highest sales.
+
+    ![Top 10](https://github.com/user-attachments/assets/8ea8a9b3-af68-4596-a0c2-46b2283caa2f)
+    
   * Product Size Demand: Displayed quantity sold by product size.
 
     ![Amazon](https://github.com/user-attachments/assets/eb3a74ad-11c7-454b-942b-91b2584d0347)
