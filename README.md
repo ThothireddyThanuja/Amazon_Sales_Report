@@ -63,6 +63,8 @@ Several insights were obtained from the data through visualization techniques:
     ![Amazon](https://github.com/user-attachments/assets/eb3a74ad-11c7-454b-942b-91b2584d0347)
     
   * Scatter Plot Analysis: Analyzed the relationship between Category and Size using a scatter plot.
+
+    ![Scatter](https://github.com/user-attachments/assets/0b622f4f-d3ff-48f1-99ea-71ec18a9f906)
     
 # Conclusion
 The analysis provided valuable insights:
