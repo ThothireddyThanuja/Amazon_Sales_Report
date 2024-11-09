@@ -46,7 +46,6 @@ The preprocessing steps included:
 Several insights were obtained from the data through visualization techniques:
 
   * Category Demand: The distribution of product categories was analyzed using a histogram.
-    ![Screenshot (66)](https://github.com/user-attachments/assets/c4ed6a43-f230-4d1b-9b76-5932a6f4ad52)
   * B2B Data: Used a pie chart to show the percentage distribution of B2B and non-B2B transactions.
   * State Distribution: Visualized the distribution of sales across states with a bar chart.
   * Top 10 States: A bar chart highlighting the states with the highest sales.
