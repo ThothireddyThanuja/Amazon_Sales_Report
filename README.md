@@ -27,7 +27,7 @@ The goal is to analyze this data to identify key trends, such as top-selling pro
 
 # Technologies Used
 
-  # Python Libraries:
+  ## Python Libraries:
      * pandas: For data loading, manipulation, and summarization
      * numpy: For numerical operations
      * matplotlib and seaborn: For creating visualizations
