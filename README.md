@@ -50,6 +50,9 @@ Several insights were obtained from the data through visualization techniques:
   * State Distribution: Visualized the distribution of sales across states with a bar chart.
   * Top 10 States: A bar chart highlighting the states with the highest sales.
   * Product Size Demand: Displayed quantity sold by product size.
+
+    ![Amazon](https://github.com/user-attachments/assets/eb3a74ad-11c7-454b-942b-91b2584d0347)
+    
   * Scatter Plot Analysis: Analyzed the relationship between Category and Size using a scatter plot.
     
 # Conclusion
