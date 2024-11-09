@@ -46,7 +46,15 @@ The preprocessing steps included:
 Several insights were obtained from the data through visualization techniques:
 
   * Category Demand: The distribution of product categories was analyzed using a histogram.
+  * B2B Data: Used a pie chart to show the percentage distribution of B2B and non-B2B transactions.
+  * State Distribution: Visualized the distribution of sales across states with a bar chart.
+  * Top 10 States: A bar chart highlighting the states with the highest sales.
+  * Product Size Demand: Displayed quantity sold by product size.
+  * Scatter Plot Analysis: Analyzed the relationship between Category and Size using a scatter plot.
+    
+# Conclusion
+The analysis provided valuable insights:
 
-
-
-     
+* Geographical Focus: The majority of the customer base is located in Maharashtra.
+* Customer Type: The business primarily serves retailers and fulfills orders through Amazon.
+* Product Demand: T-shirts are in high demand, with the M-size being the most popular among buyers.
