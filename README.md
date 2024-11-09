@@ -1,6 +1,6 @@
 # Amazon Sales Report Analysis
 
-This project involves exploratory data analysis (EDA) on an Amazon sales dataset to uncover insights into customer preferences, product performance, and geographical sales distribution.
+This project involves exploratory data analysis (EDA) on an Amazon sales dataset to uncover insights into customer preferences,product performance, and geographical sales distribution.
 The analysis includes data cleaning, transformation, and visualizations to support business decisions.
 
 # Table of Contents
